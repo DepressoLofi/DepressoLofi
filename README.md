@@ -16,4 +16,4 @@
 
 <br clear="left">
 <hr>
-<img src="https://skillicons.dev/icons?i=unity,C,python,laravel,js,ts,react,mysql,mongodb" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,js,ts,react,mysql,mongodb" alt="Tech Stack" /> 
