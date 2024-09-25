@@ -14,12 +14,12 @@
     </a>
    <br>
     + My facebook ->
-    <a href="https://facebook.com/your-facebook-link" target="_blank">
+    <a href="https://www.facebook.com/share/98qaCMS8J48ZCZRo" target="_blank">
         <i class="fab fa-facebook"></i> Facebook
     </a>
   <br>
   + My itch.io ->
-    <a href="https://your-itch-link" target="_blank">
+    <a href="https://depressolofi.itch.io" target="_blank">
         <i class="fab fa-itch-io"></i> Itch.io
     </a>
 </div>
