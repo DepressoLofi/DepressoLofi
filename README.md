@@ -9,8 +9,9 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png" alt="Itch.io Project" style="width: 150px; margin-right: 20px;">
   <div>
-    🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5)  
-    💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo)  
-    💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io)
+    
   </div>
 </div>
+🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5)  
+💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo)  
+💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io)
