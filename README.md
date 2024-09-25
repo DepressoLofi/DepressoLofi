@@ -21,5 +21,5 @@
 <img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,vue,js,ts,react,mysql,mongodb" alt="Tech Stack" width="300" />
 
 ### My Status - 
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepressoLofi&theme=radical&layout=compact" />
 
