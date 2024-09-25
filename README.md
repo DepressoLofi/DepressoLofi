@@ -8,4 +8,5 @@
 🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5)  
 💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo)  
 💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io)
+<br>
 <img style="position: absolute; right: 0; width: 200px; height: 200px;" src="https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png" alt="Itch.io Image">
