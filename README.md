@@ -8,7 +8,7 @@
 <h4>
   My platforms - 
 </h4>
-- itch: https://www.tiktok.com/@depressolofi5?_t=8q1LrVsKUjN&_r=1
+- itch: https://www.tiktok.com/@depressolofi5
 
 <br>
 - facebook:
