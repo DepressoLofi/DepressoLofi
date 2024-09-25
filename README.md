@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="150" height="150" src="https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png"> 
+<img align="right" width="200" height="200" src="https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png"> 
 
 ### My platforms -
 
