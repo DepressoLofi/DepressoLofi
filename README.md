@@ -5,7 +5,8 @@
 ---
 ### My platforms -
 
-🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5)  
-💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo)  
-💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io)
-<img align="right" width="200" height="200" src="https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png">
+| Links | ![Itch.io Image](https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png) |
+|-------|----------------------------------------------------------------------------------|
+| 🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5) | |
+| 💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo) | |
+| 💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io) | |
