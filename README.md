@@ -10,4 +10,6 @@
 💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo)  
 💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io)
 
-![Itch.io Project](https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png)
+<div style="float: right; margin-left: 10px;">
+  <img src="https://img.itch.zone/aW1nLzE2ODAxNjMwLnBuZw==/315x250%23c/Q7qthF.png" alt="Itch.io Project">
+</div>
