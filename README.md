@@ -17,5 +17,5 @@
 <br clear="left">
 <hr>
 
-### My Tech staacks - 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,js,ts,react,mysql,mongodb" alt="Tech Stack" /> 
+### My Tech stacks - 
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,js,ts,react,mysql,mongodb&size=20" alt="Tech Stack" /> 
