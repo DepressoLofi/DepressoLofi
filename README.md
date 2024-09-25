@@ -18,4 +18,4 @@
 <hr>
 
 ### My Tech stacks - 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,js,ts,react,mysql,mongodb&size=1" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,js,ts,react,mysql,mongodb" alt="Tech Stack" width="300" />
