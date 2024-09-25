@@ -8,3 +8,6 @@
 <h4>
   My platforms - 
 </h4>
+- itch:
+- facebook:
+- tiktok:
