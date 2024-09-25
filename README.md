@@ -18,6 +18,6 @@
 <hr>
 
 ### My Tech stacks - 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,js,ts,react,mysql,mongodb" alt="Tech Stack" width="300" />
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,laravel,vue,js,ts,react,mysql,mongodb" alt="Tech Stack" width="300" />
 
 ### My Status - 
