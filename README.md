@@ -8,14 +8,17 @@
 <h4>My platforms -</h4>
 
 <div class="social-links">
-    My tiktok ->
+    + My tiktok ->
     <a href="https://www.tiktok.com/@depressolofi5" target="_blank">
         <i class="fab fa-tiktok"></i> TikTok
     </a>
    <br>
+    + My facebook ->
     <a href="https://facebook.com/your-facebook-link" target="_blank">
         <i class="fab fa-facebook"></i> Facebook
     </a>
+  <br>
+  + My itch.io ->
     <a href="https://your-itch-link" target="_blank">
         <i class="fab fa-itch-io"></i> Itch.io
     </a>
