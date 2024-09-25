@@ -6,8 +6,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        ### My platforms -
-        
+         My platforms -
         🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5)  
         💙 **My Facebook** -> [Facebook](https://www.facebook.com/share/98qaCMS8J48ZCZRo)  
         💜 **My Itch.io** -> [Itch.io](https://depressolofi.itch.io)
