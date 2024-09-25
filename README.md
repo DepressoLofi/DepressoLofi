@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F00FF&background=E7E8FF00&width=435&lines=Hay+There%2C+I+am+Depresso...;I+write+code+for+sheer+pleasure.)](https://git.io/typing-svg)
 
 ---
-<div>
+<div style="position: relative;">
+  
 ### My platforms -
 
 🖤 **My TikTok** -> [TikTok](https://www.tiktok.com/@depressolofi5)  
