@@ -18,7 +18,7 @@
 <hr>
 
 ### My Tech stacks - 
-<img src="https://skillicons.dev/icons?i=cs,py,js" alt="Tech Stack" width="350" />
+<img src="https://skillicons.dev/icons?i=cs,py,js,cpp" alt="Tech Stack" width="350" />
 <!-- <img src="https://skillicons.dev/icons?i=unity,cs,blender,laravel,vue,mysql,react,mongodb,postgresql,js,ts,python" alt="Tech Stack" width="350" /> -->
 
 ### My Status - 
