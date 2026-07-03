@@ -19,8 +19,10 @@
 
 ### My Tech stacks - 
 <img src="https://skillicons.dev/icons?i=cs,py,js,cpp" alt="Tech Stack" width="350" />
-<!-- <img src="https://skillicons.dev/icons?i=unity,cs,blender,laravel,vue,mysql,react,mongodb,postgresql,js,ts,python" alt="Tech Stack" width="350" /> -->
+ <img src="https://skillicons.dev/icons?i=unity,blender" alt="Tech Stack" width="350" />
 
+
+<!-- ,cpp -->
 ### My Status - 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepressoLofi&theme=radical&layout=compact" />
 
